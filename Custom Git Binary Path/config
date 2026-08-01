@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	worktree = D:/claude/hcmingGo/hcmingGo
+	symlinks = false
+	ignorecase = true
